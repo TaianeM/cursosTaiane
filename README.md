@@ -1,1 +1,1 @@
-🧠 Repositório destinado a artigos e estudos acerca de desenvolvimento.
+🧠 Repositório destinado a códigos e estudos acerca do curso PHP do 0 a maestria.
